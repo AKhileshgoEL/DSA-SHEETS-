@@ -16,7 +16,7 @@ public:
         return ans;
     }
 };
-APPROACH -2
+//APPROACH -2
     class Solution {
     public:
 vector<int> preorderTraversal(TreeNode *root)
