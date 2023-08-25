@@ -1,4 +1,4 @@
-//APPROACH-1 
+//APPROACH-1
     class Solution {
 public:
     void helper(TreeNode* root,vector<int>&ans){
