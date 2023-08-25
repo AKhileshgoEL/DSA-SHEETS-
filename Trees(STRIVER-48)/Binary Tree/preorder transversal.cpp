@@ -10,7 +10,7 @@ public:
         helper(root->right,ans);
     }
 
-    vector<int> preorderTraversal(TreeNode* root) {
+    vector<int> preorderTraversal(TreeNode* root) { 
         vector<int>ans;
         helper(root,ans);
         return ans;
