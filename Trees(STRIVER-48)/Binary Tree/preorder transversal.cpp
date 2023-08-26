@@ -15,7 +15,7 @@ public:
         helper(root,ans);
         return ans;
     }
-};
+}; 
 //APPROACH -2 
     class Solution {
     public:
