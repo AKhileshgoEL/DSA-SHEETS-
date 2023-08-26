@@ -56,7 +56,7 @@ vector<int> preorderTraversal(TreeNode *root)
         }
 
         // Push left subtree of node to stack.
-        if (node->left)
+        if (node->left) 
         {
             s.push(node->left);
         }
