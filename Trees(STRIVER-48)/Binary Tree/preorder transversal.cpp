@@ -12,7 +12,7 @@ public:
 
     vector<int> preorderTraversal(TreeNode* root) { 
         vector<int>ans;
-        helper(root,ans);
+        helper(root,ans); 
         return ans;
     }
 };
