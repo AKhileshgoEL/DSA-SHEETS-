@@ -1,6 +1,6 @@
 //APPROACH-1
     class Solution {  
-public:
+public: 
     void helper(TreeNode* root,vector<int>&ans){
         if(root == NULL){
             return ;
