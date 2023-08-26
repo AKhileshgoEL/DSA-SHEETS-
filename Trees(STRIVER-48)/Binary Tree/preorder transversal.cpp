@@ -1,5 +1,5 @@
 //APPROACH-1
-    class Solution {
+    class Solution {  
 public:
     void helper(TreeNode* root,vector<int>&ans){
         if(root == NULL){
